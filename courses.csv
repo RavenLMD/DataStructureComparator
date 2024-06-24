@@ -1,0 +1,94 @@
+CSCI300,Introduction to Algorithms,CSCI200,MATH201
+CSCI350,Operating Systems,CSCI300
+CSCI101,Introduction to Programming in C++,CSCI100
+CSCI301,Advanced Programming in C++,CSCI101
+CSCI400,Large Software Development,CSCI301,CSCI350
+CSCI200,Data Structures,CSCI101
+MATH201,Discrete Mathematics,NOPREREQ
+CSCI100,Introduction to Computer Science,NOPREREQ
+CS499,Capstone,NOPREREQ
+CSCI102,Introduction to Python,CSCI100
+CSCI110,Web Development Basics,CSCI100
+CSCI220,Computer Architecture,CSCI200
+CSCI230,Theory of Computation,MATH201
+CSCI240,Database Systems,CSCI200
+CSCI250,Computer Networks,CSCI200
+CSCI260,Artificial Intelligence,CSCI300
+CSCI270,Machine Learning,CSCI260
+CSCI280,Data Mining,CSCI270
+CSCI290,Software Engineering,CSCI200
+MATH202,Linear Algebra,MATH201
+MATH203,Calculus I,NOPREREQ
+MATH204,Calculus II,MATH203
+MATH205,Probability and Statistics,MATH202
+CSCI305,Advanced Algorithms,CSCI300
+CSCI310,Advanced Databases,CSCI240
+CSCI320,Cybersecurity Fundamentals,CSCI250
+CSCI330,Mobile App Development,CSCI301
+CSCI340,Human-Computer Interaction,CSCI301
+CSCI345,Cloud Computing,CSCI250
+CSCI355,Parallel Computing,CSCI350
+CSCI360,Game Development,CSCI301
+CSCI370,Digital Image Processing,CSCI301
+CSCI380,Natural Language Processing,CSCI260
+CSCI390,Computer Graphics,CSCI301
+CSCI410,Advanced Web Development,CSCI110
+CSCI420,Advanced Computer Networks,CSCI250
+CSCI430,Big Data,CSCI280
+CSCI440,Distributed Systems,CSCI350
+CSCI450,Robotics,CSCI260
+CSCI460,Quantum Computing,CSCI305
+CSCI470,Bioinformatics,CSCI270
+CSCI480,Computational Biology,CSCI270
+CSCI490,Ethical Hacking,CSCI320
+MATH301,Abstract Algebra,MATH202
+MATH302,Mathematical Modeling,MATH205
+MATH303,Number Theory,MATH202
+MATH304,Differential Equations,MATH204
+MATH305,Complex Analysis,MATH204
+MATH306,Real Analysis,MATH204
+MATH307,Mathematical Logic,MATH203
+MATH308,Topology,MATH202
+MATH309,Graph Theory,MATH201
+MATH310,Combinatorics,MATH201
+CSCI500,Research Methods in Computer Science,CSCI499
+CSCI510,Advanced Cybersecurity,CSCI490
+CSCI520,Deep Learning,CSCI270
+CSCI530,Advanced Machine Learning,CSCI270
+CSCI540,Advanced Robotics,CSCI450
+CSCI550,Blockchain Technology,CSCI250
+CSCI560,Data Science Capstone,CSCI280
+CSCI570,Virtual Reality,CSCI360
+CSCI580,Augmented Reality,CSCI360
+CSCI590,Quantum Algorithms,CSCI460
+CSCI600,Special Topics in CS,CSCI499
+CSCI610,Thesis in CS,CSCI600
+CSCI620,Independent Study,CSCI499
+CSCI630,Internship in CS,CSCI499
+CSCI640,Practicum in CS,CSCI499
+CSCI650,Advanced Game Development,CSCI360
+CSCI660,Advanced Web Systems,CSCI410
+CSCI670,Cloud Security,CSCI345
+CSCI680,Computational Neuroscience,CSCI470
+CSCI690,Data Visualization,CSCI430
+CSCI700,Post-Quantum Cryptography,CSCI460
+CSCI710,Advanced Operating Systems,CSCI350
+CSCI720,Microservices Architecture,CSCI440
+CSCI730,Advanced Data Mining,CSCI280
+CSCI740,Advanced Computational Biology,CSCI480
+CSCI750,Human-Robot Interaction,CSCI450
+CSCI760,Advanced Deep Learning,CSCI520
+CSCI770,Advanced Natural Language Processing,CSCI380
+CSCI780,Genetic Algorithms,CSCI450
+CSCI790,Advanced Computer Graphics,CSCI390
+CSCI800,PhD Seminar in CS,CSCI610
+CSCI810,Advanced Computer Vision,CSCI370
+CSCI820,Computational Geometry,CSCI305
+CSCI830,Advanced Distributed Systems,CSCI440
+CSCI840,Advanced Blockchain,CSCI550
+CSCI850,Advanced Bioinformatics,CSCI470
+CSCI860,Advanced Quantum Computing,CSCI460
+CSCI870,Advanced Computational Neuroscience,CSCI680
+CSCI880,Advanced Data Science,CSCI430
+CSCI890,Advanced Computational Geometry,CSCI820
+CSCI900,Advanced Computational Topology,CSCI308
